@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Rock Salt', cursive;
+  font-size: 52px;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+body{
+  background-color: #222222;
+}
+.main{
+  border: none;
+}
+
+.card{
+  margin-top: 30px;
+  box-shadow: 0 2px 1px #e0e0e0;
+  border-radius: 10px;
+  background-color:#FFF;
+  padding: 20px;
+}
+
+.custom_footer{
+  color: white;
+}
